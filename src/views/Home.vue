@@ -47,15 +47,6 @@ export default {
         Splide,
         SplideSlide,
       },
-      // methods: {
-      //   onMounted(splide) {
-      //     // do something
-      //   },
-
-      //   onArrowsMounted(splide, prev, next) {
-      //     // do something
-      // },
-      // },
     };
   },
 };
